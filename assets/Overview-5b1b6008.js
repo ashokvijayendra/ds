@@ -1,0 +1,7 @@
+import{j as e,a as r,F as a}from"./jsx-runtime-29545a09.js";import{M as s,C as m}from"./index-0320b7f8.js";import{L as p,D as c}from"./left-nav-rail.stories-5e088aea.js";import{u as n}from"./index-a1cf9e47.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./iframe-2f9594f8.js";import"../sb-preview/runtime.js";import"./index-79dc52bf.js";import"./index-11d98b33.js";import"./index-356e4a49.js";import"./usePrefix-8bc448ba.js";import"./_rollupPluginBabelHelpers-98964cd2.js";import"./index-f78a4f82.js";import"./index-8d47fad6.js";import"./index-1e774139.js";import"./Zoom-ae7be2de.js";import"./settings-96eae654.js";import"./text-link-f6341058.js";function i(o){const t=Object.assign({h2:"h2",p:"p",h3:"h3"},n(),o.components);return r(a,{children:[e(s,{of:p}),`
+`,e(t.h2,{id:"overview",children:"Overview"}),`
+`,e(t.p,{children:"The navigation rail helps provide users access to primary destinations on the Walgreens dotcom experience. Destinations are nested according to subcategories, importance or popularity."}),`
+`,e(t.h3,{id:"usage",children:"Usage"}),`
+`,e(t.p,{children:"There are up to 3 collapsible sections within each navigation rail that are expanded by default on desktop/tablet and are collapsed by default on mobile. While there is no maximum number of links, the “show more” link should be enabled."}),`
+`,e(m,{of:c})]})}function F(o={}){const{wrapper:t}=Object.assign({},n(),o.components);return t?e(t,Object.assign({},o,{children:e(i,o)})):i(o)}export{F as default};
+//# sourceMappingURL=Overview-5b1b6008.js.map
